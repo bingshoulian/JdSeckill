@@ -7,4 +7,4 @@
 5、自动登录
 
 ## 演示：
-![img](https://github.com/chzeze/wetchat_brain/blob/master/show.gif) 
+![img](https://github.com/chzeze/jdSeckill/blob/master/20180511165725.png) 
