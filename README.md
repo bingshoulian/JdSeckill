@@ -8,3 +8,5 @@
 
 ## 演示：
 ![img](https://github.com/chzeze/jdSeckill/blob/master/20180511165725.png) 
+
+## 交流联系QQ：1056773701
