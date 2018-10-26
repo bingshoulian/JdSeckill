@@ -1,5 +1,5 @@
 # jdSeckill
-## 京东秒杀
+## JD秒杀
 1、支持设定时间下单
 2、立即下单
 3、按照设定价格下单
@@ -9,4 +9,4 @@
 ## 演示：
 ![img](https://github.com/chzeze/jdSeckill/blob/master/20180511165725.png) 
 
-## 交流联系QQ：674356684
+
